@@ -2,7 +2,7 @@ package part4_module3;
 
 import java.util.Scanner;
 
-public class Task {
+public class Task5 {
 
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);

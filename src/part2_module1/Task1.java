@@ -1,4 +1,4 @@
-package part3_module1;
+package part2_module1;
 
 public class Task1 {
     public static void main(String[] args) {
